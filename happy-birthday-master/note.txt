@@ -1,8 +1,0 @@
-1. I want to animate :D to rotate 90 deg like smiley one.
-2. "So" then flash the again .bigText one - "So" then flash then again "So" (total three time)
-3. I want fake button color as pink not blue
-4. Special text bg color should also be pink
-5. I want when smiley rotates 90 then I should be color full as spereading joy
-6. after lydia2.png appears then a memeorable scene should come where I'll show album I want 5 more pics they should also appear name: lydia3png lydia4.png lydia5.png lydia6.png
-7. and at the last - Or click, if you want to watch it again.
-to watch again user should click on emoji then it should start rewatch
